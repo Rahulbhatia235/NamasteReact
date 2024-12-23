@@ -1,0 +1,10 @@
+# Cache files
+.parcel-cache/
+dist/
+node_modules/
+
+# Log files
+*.log
+
+# Large generated files
+*.map
